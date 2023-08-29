@@ -2,7 +2,7 @@
 include "classes/db.class.php";
 include('classes/userModel.class.php');
 ?>
-
+<!-- Index page -->
 <!DOCTYPE html>
 <html lang="en">
 
